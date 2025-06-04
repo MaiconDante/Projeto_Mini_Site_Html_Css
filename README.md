@@ -7,7 +7,7 @@ O **Mini Site** tem como objetivo aplicar, de forma prática, os principais conc
 ---
 
 ## 📷 Demonstração
-URL -> <a href="#">Projeto Mini Site HTML e CSS</a>
+URL -> <a href="https://maicondante.github.io/Projeto_Mini_Site_Html_Css/">Projeto Mini Site HTML e CSS</a>
 
 ## 🧠 Aprendizados Aplicados
 
